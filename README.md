@@ -19,7 +19,7 @@ Manage Your Profile: Register, log in, and manage your user account securely.
 We welcome contributions to enhance the functionality and user experience of the platform! To contribute:
 1. Fork the Repository: Create a personal copy of the repository.
 2. Create a Feature Branch:
- ```git checkout -b feature-branch```
+   `git checkout -b feature-branch`
 3. Make Your Changes: Develop new features or fix bugs.
 4. Commit Your Changes:
    ```git commit -m "Describe your changes"```
