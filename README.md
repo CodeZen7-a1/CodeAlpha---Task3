@@ -22,7 +22,7 @@ We welcome contributions to enhance the functionality and user experience of the
    `git checkout -b feature-branch`
 3. Make Your Changes: Develop new features or fix bugs.
 4. Commit Your Changes:
-   ```git commit -m "Describe your changes"```
+   ``git commit -m "Describe your changes"``
 5. Push Your Branch
    ```git push origin feature-branch```
 6. Submit a Pull Request: Propose your changes for review.
